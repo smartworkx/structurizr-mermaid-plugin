@@ -17,3 +17,7 @@ Put the jar in a `plugins/` directory next to the workspace DSL, then, after the
 ```
 
 `url` is required; `format` (svg or png) and `theme` are optional. Built against `structurizr-dsl` 4.1.0, Java 17+.
+
+## Licence
+
+Apache-2.0. Copyright 2026 Joris Wijlens.
